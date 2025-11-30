@@ -1,4 +1,6 @@
-
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
 
 <h1 align="center">Hello world , I am Behruz 🧑‍🎓</h1>
 
@@ -24,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://behruzbekzokirov17@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
@@ -43,6 +45,15 @@
   <img src="https://github-profile-trophy.vercel.app?username=zokirov2oo6&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Behruz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Behruz&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 ###
 
 <div align="center">
