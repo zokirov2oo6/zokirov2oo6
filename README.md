@@ -1,6 +1,4 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
+
 
 <h1 align="center">Hello world , I am Behruz 🧑‍🎓</h1>
 
