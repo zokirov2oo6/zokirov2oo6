@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello world , I am Behruz 🧑‍🎓</h1>
 
 ###
@@ -37,20 +36,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=zokirov2oo6&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=zokirov2oo6&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Behruz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Behruz&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 ###
 
 <div align="center">
