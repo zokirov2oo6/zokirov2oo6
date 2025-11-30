@@ -1,3 +1,7 @@
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <h1 align="center">Hello world , I am Behruz 🧑‍🎓</h1>
 
 ###
@@ -24,13 +28,13 @@
 
 <div align="center">
   <a href="https://behruzbekzokirov17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
   <a href="https://instagram.com/zokirov2oo6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
   <a href="https://t.me/zokirov2oo6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
   </a>
 </div>
 
@@ -43,11 +47,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <a href="https://open.spotify.com/user/Behruz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Behruz&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
-
