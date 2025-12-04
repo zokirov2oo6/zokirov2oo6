@@ -42,21 +42,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Behruz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Behruz&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Behruz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Behruz&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
