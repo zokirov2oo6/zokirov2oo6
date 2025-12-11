@@ -42,3 +42,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/snake.svg" alt="Snake animation" />
+
+###
