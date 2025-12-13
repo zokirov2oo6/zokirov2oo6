@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zokirov2oo6&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zokirov2oo6&radius=16&theme=material&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
