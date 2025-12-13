@@ -32,12 +32,14 @@
   <a href="https://t.me/zokirov2oo6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
   </a>
+  <a href="https://facebook.com/behruzbekzokirov17" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zokirov2oo6&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zokirov2oo6&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
