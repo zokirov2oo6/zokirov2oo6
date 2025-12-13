@@ -46,13 +46,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zokirov2oo6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zokirov2oo6&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zokirov2oo6&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zokirov2oo6/zokirov2oo6/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
