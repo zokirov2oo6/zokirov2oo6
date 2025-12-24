@@ -1,9 +1,5 @@
-<h1 align="center">Hello 🌍 , I am == Behruz  🧑‍🎓</h1>
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=163&section=header&reversal=false&text=Backend%20developer&fontSize=50&fontColor=00FFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=163&section=header&reversal=true&text=Hello%20%F0%9F%8C%8D%20%20%20%20I'm%20==%20Behruz&fontSize=50&fontColor=00FFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
